@@ -8,6 +8,10 @@
 
 ---
 
+## 视频指南
+
+YouTube： https://youtu.be/oZaHzvIQ0yw
+
 ## 🚀 任务一：点亮一颗星星 (Star)
 
 这是最简单的操作，代表你对一个项目的喜欢和认可。
